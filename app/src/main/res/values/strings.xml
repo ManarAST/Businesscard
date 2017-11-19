@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Business card</string>
+    <string name="NabadatWeb"> <a href="www.nabadatstore.com"> www.nabadatstore.com </a></string>
+    <string name="Insta"> <a href="www.instagram.com/nabadat__/"> nabadat__ </a></string>
+    <string name="Twitter"> <a href="https://twitter.com/nabadat__"> nabadat__</a></string>
+
+</resources>
